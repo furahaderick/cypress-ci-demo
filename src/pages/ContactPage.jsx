@@ -1,7 +1,9 @@
+import Heading from "../components/Heading.jsx";
+
 const ContactPage = () => {
 	return (
 		<div>
-			<h1>Contact Page</h1>
+			<Heading text="Contact Page" />
 		</div>
 	);
 };

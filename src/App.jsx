@@ -1,7 +1,7 @@
 import { Link, Route, Router, Routes } from "react-router-dom";
-import AboutPage from "./components/AboutPage.jsx";
-import ContactPage from "./components/ContactPage.jsx";
-import HomePage from "./components/HomePage.jsx";
+import AboutPage from "./pages/AboutPage.jsx";
+import ContactPage from "./pages/ContactPage.jsx";
+import HomePage from "./pages/HomePage.jsx";
 
 const App = () => {
 	return (
